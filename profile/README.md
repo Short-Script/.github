@@ -31,5 +31,5 @@ We’d love to help you build it!
 
 ---
 
-📫 **Contact us**: hello@shortscript.net  
-🧑‍💻 **GitHub**: https://shortscript.net
+📫 **Reach out to us**: hello@shortscript.net  
+🧑‍💻 **Learn more at**: https://shortscript.net
